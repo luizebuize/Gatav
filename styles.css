@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    border: 3px solid blue;
+    padding: 10px;
+  }
+  
+  .container {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  .red-text {
+    color: red;
+  }
+  
+  .light-grey {
+    background-color: #f0f0f0;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  table, th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  th {
+    background-color: #e0e0e0;
+  }
